@@ -14,6 +14,7 @@ Skills:  HTML / CSS / JS / TAILWIND / REACT / NODE JS / EXPRESS JS / MongoDB
 - 💬 Ask me about Web Development 
 - 📫 How to reach me:  E-mail 
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shahidulllah) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidulllah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shahidullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahidullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shahidullah.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shahidullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ass12-medicare.web.app)  
 
@@ -27,5 +28,4 @@ Skills:  HTML / CSS / JS / TAILWIND / REACT / NODE JS / EXPRESS JS / MongoDB
 
 ![GitHub metrics](https://metrics.lecoq.io/shahidulllah)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shahidulllah)  
-
+ 
