@@ -12,7 +12,7 @@ Skills:  HTML / CSS / JS / TAILWIND / REACT / NODE JS / EXPRESS JS / MongoDB
 - 🌱 I’m currently learning NEXTJS 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me:  E-mail
+- 📫 How to reach me:  mdshahidsumon177@gmail.com
 
 
 
