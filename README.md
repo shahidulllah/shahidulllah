@@ -32,6 +32,6 @@ Skills:  HTML / CSS / JS / TAILWIND / REACT / NODE JS / EXPRESS JS / MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidulllah&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shahidulllah)  
+[![GitHub metrics](https://metrics.lecoq.io/shahidulllah)  
 
  </div>
