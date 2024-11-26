@@ -4,13 +4,19 @@
 As a passionate junior web developer proficient in the MERN stack, I have hands-on experience in creating dynamic and responsive web applications. I have utilized HTML, CSS, Tailwind, JavaScript, React, Node.js, MongoDB, and Express to deliver robust and scalable solutions. My work includes both full-stack and basic projects, showcasing my ability to adapt and innovate. Driven by a love for continuous learning and technology, I am eager to contribute to cutting-edge web development projects.
 <br/> <br/> 
 
-## :chart_with_upwards_trend:Current Stats
-<!-- markdownlint-disable MD033 -->
-<div align="center">
-    <!-- <img src="https://streak-stats.demolab.com/?user=shahidulllah&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=shahidulllah&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Shahidullah's GitHub Streak" /> -->
- <img src="https://streak-stats.demolab.com?user=shahidulllah&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Shahidullah's GitHub Streak">
-</div>
+## 🌐Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidulllah)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shahidullllah)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mdshahidsumon177@gmail.com)
+<!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu) -->
+
+- 🔭 I’m currently working on a new project 
+- 🌱 I’m currently learning NEXTJS 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me:  mdshahidsumon177@gmail.com
 
 ## 🛠️Skill Set
 
@@ -47,19 +53,16 @@ As a passionate junior web developer proficient in the MERN stack, I have hands-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white) -->
 
-## 🌐Connect with Me
+## :chart_with_upwards_trend:Current Stats
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+    <!-- <img src="https://streak-stats.demolab.com/?user=shahidulllah&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=shahidulllah&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Shahidullah's GitHub Streak" /> -->
+ <img src="https://streak-stats.demolab.com?user=shahidulllah&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Shahidullah's GitHub Streak">
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidulllah)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shahidullllah)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mdshahidsumon177@gmail.com)
-<!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu) -->
 
-- 🔭 I’m currently working on a new project 
-- 🌱 I’m currently learning NEXTJS 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me:  mdshahidsumon177@gmail.com
+
 
 ## 📊Additional Stats
 
