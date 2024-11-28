@@ -53,7 +53,6 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)&nbsp;
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)&nbsp;
-![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%23007ACC.svg?style=for-the-badge&logo=react-table&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
