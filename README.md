@@ -34,29 +34,29 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 
 ### 🎨 Front-End Technologies
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)&nbsp;
 
 ### 🔧 Backend Technologies
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)&nbsp;
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?logo=mongoose&logoColor=white)&nbsp;
 
 ### 🚀 Tools & Platforms
 
-![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)&nbsp;
-![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)&nbsp;
-![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?logo=Firebase&logoColor=white&labelColor=dd2c00)&nbsp;
+![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?logo=vercel&logoColor=white)&nbsp;
+![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?logo=react-query&logoColor=white)&nbsp;
+![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?logo=stripe&logoColor=%2364C4ED)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/Git-fc6d26?logo=git&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
 
 ---
 
