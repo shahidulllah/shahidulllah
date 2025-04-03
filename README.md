@@ -63,7 +63,7 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 ## 📈 Current Stats
 
 <div align="center">   
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahidulllah&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-lyart.vercel.app?user=shahidulllah&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ## 📊 Additional Stats
