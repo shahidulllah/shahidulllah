@@ -28,7 +28,7 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 
 ---
 
-## 🛠️ Skill Set
+## 🛠️ Skills Set
 
 My tech stack includes a diverse range of technologies that I use to deliver efficient, high-quality web solutions.
 
