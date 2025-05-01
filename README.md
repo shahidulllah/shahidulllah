@@ -39,6 +39,11 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/redux--toolkit-%23764ABC.svg?logo=redux&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%231677FF?logo=ant-design)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)&nbsp;
 
 ### 🔧 Backend Technologies
 
@@ -46,6 +51,7 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?logo=mongoose&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)&nbsp;
 
 ### 🚀 Tools & Platforms
 
@@ -53,7 +59,6 @@ My tech stack includes a diverse range of technologies that I use to deliver eff
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?logo=vercel&logoColor=white)&nbsp;
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?logo=react-query&logoColor=white)&nbsp;
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?logo=stripe&logoColor=%2364C4ED)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-fc6d26?logo=git&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
