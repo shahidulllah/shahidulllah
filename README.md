@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/CWdzZjx/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+![Full Stack Developer](https://i.ibb.co/CWdzZjx/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 
 ## Hi there 👋, This is Shahidullah
 
