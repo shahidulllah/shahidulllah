@@ -2,7 +2,7 @@
 
 ## Hi there 👋, This is Shahidullah
 
-I am a dedicated web developer with expertise in the MERN stack, specializing in building dynamic, responsive, and scalable web applications. With a strong passion for continuous learning and innovation, I excel in solving complex challenges and crafting user-focused solutions.
+A dedicated full stack developer with expertise in the MERN stack, specializing in building dynamic, responsive, and scalable web applications. With a strong passion for continuous learning and innovation, I excel in solving complex challenges and crafting user-focused solutions.
 
 My technical skill set includes HTML, CSS, TailwindCSS, JavaScript, React, Node.js, MongoDB, and Express, enabling me to deliver robust, efficient, and maintainable applications. From full-stack solutions to frontend-specific projects, my portfolio demonstrates versatility, adaptability, and a drive for excellence.
 
