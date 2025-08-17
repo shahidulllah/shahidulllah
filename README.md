@@ -12,7 +12,7 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 ## 🌟 **About Me**
 
 - 🔭 **Currently Working On:** A new full-stack web development project.  
-- 🌱 **Learning:** Advanced **Next.js** concepts.  
+- 🌱 **Learning:** Advanced **Docker** concepts.  
 - 👯 **Collaborating On:** Open-source projects on GitHub.  
 - 💬 **Ask Me About:** Web development, best practices, or improving frontend performance.  
 - 📫 **Reach Me At:** [mdshahidsumon177@gmail.com](mailto:mdshahidsumon177@gmail.com).
