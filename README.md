@@ -30,7 +30,7 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 
 ## 🛠️ Skills Set
 
-My tech stack includes a diverse range of technologies that I use to deliver efficient, high-quality web solutions.
+My tech stacks include a diverse range of technologies that I use to deliver efficient, high-quality web solutions.
 
 ### 🎨 Front-End Technologies
 
