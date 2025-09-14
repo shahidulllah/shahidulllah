@@ -11,7 +11,7 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 
 ## 🌟 **About Me**
 
-- 🔭 **Currently Working On:** A new full-stack web development project.  
+- 🔭 **Currently Working On:** A new full-stack web application.  
 - 🌱 **Learning:** Advanced **Docker** concepts.  
 - 👯 **Collaborating On:** Open-source projects on GitHub.  
 - 💬 **Ask Me About:** Web development, best practices, or improving frontend performance.  
