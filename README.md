@@ -10,7 +10,6 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 <br/> <br/> 
 
 ## 🌟 **About Me**
-
 - 🔭 **Currently Working On:** A new full-stack web application.  
 - 🌱 **Learning:** Advanced **Docker** concepts.  
 - 👯 **Collaborating On:** Open-source projects on GitHub.  
@@ -20,7 +19,6 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 ---
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidulllah "Connect on LinkedIn")&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shahidullllah "Visit my Facebook profile")&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+8801747162648 "Message me on WhatsApp")&nbsp;
@@ -29,7 +27,6 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 ---
 
 ## 🛠️ Skills Set
-
 My tech stacks include a diverse range of technologies that I use to deliver efficient, high-quality web solutions.
 
 ### 🎨 Front-End Technologies
