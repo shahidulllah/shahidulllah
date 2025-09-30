@@ -1,4 +1,4 @@
-![Full Stack Developer](https://i.ibb.co/CWdzZjx/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+no![Full Stack Developer](https://i.ibb.co/CWdzZjx/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 
 ## Hi there 👋, This is Md. Shahidullah
 
@@ -29,7 +29,7 @@ Motivated by a love for technology and problem-solving, I am eager to contribute
 ## 🛠️ Skills Set
 My tech stacks include a diverse range of technologies that I use to deliver efficient, high-quality web solutions.
 
-### 🎨 Front-End Technologies
+### Front-End Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)&nbsp;
@@ -42,7 +42,7 @@ My tech stacks include a diverse range of technologies that I use to deliver eff
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%231677FF?logo=ant-design)&nbsp;
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)&nbsp;
 
-### 🔧 Backend Technologies
+### Backend Technologies
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp;
@@ -50,7 +50,7 @@ My tech stacks include a diverse range of technologies that I use to deliver eff
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?logo=mongoose&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)&nbsp;
 
-### 🚀 Tools & Platforms
+### Tools & Platforms
 
 ![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?logo=Firebase&logoColor=white&labelColor=dd2c00)&nbsp;
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?logo=vercel&logoColor=white)&nbsp;
