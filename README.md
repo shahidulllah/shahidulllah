@@ -61,22 +61,6 @@ My tech stacks include a diverse range of technologies that I use to deliver eff
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
 
 ---
-
-## 📈 Current Stats
-
-<div align="center">   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-lyart.vercel.app?user=shahidulllah&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
-## 📊 Additional Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shahidulllah&show_icons=true&theme=transparent" alt="GitHub Stats">&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidulllah&show_icons=true&theme=transparent&layout=compact" alt="Top Languages"><br/><br/>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&&show_icons=true&theme=transparent&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
 ## 💼 My Latest Projects  
 
 Here’s a showcase of my full-stack and frontend web development projects.  
@@ -91,6 +75,24 @@ Each project includes a short description, key features, and both GitHub reposit
 
 *More projects coming soon — stay tuned..!* 
 
----
+## 📈 Current Stats
+
+<div align="center">   
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-lyart.vercel.app?user=shahidulllah&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
+## 📊 Additional Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahidulllah&show_icons=true&theme=transparent" alt="GitHub Stats">&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidulllah&show_icons=true&theme=transparent&layout=compact" alt="Top Languages"><br/><br/>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&theme=transparent&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+&nbsp;&nbsp;&nbsp; <!-- adds gap -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&theme=transparent&row=1&column=3&offset=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
 
 
