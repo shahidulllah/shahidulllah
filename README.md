@@ -87,10 +87,12 @@ Each project includes a short description, key features, and both GitHub reposit
     <img src="https://github-readme-stats.vercel.app/api?username=shahidulllah&show_icons=true&theme=transparent" alt="GitHub Stats">&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidulllah&show_icons=true&theme=transparent&layout=compact" alt="Top Languages"><br/><br/>
     
+---  
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&theme=transparent&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 &nbsp;&nbsp;&nbsp; <!-- adds gap -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&theme=transparent&row=1&column=3&offset=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 </div>
 
 
