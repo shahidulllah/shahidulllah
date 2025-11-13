@@ -76,3 +76,18 @@ My tech stacks include a diverse range of technologies that I use to deliver eff
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahidulllah&&show_icons=true&theme=transparent&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
+## 💼 My Latest Projects  
+
+Here’s a showcase of my full-stack and frontend web development projects.  
+Each project includes a short description, key features, and both GitHub repositories and live demo links.
+
+| Project Name | Description | Tech Stack | GitHub Links | Visit Project |
+|---------------|--------------|-------------|----------------|-------------|
+| **ReTreasure** | A full-stack marketplace for buying and selling used items. Users can explore, post, and manage products through a personalized dashboard. | Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Redux, Axios, JWT, bcrypt | [Client](https://github.com/shahidulllah/ReTreasure-shop-client) <br> [Server](https://github.com/shahidulllah/ReTreasure-shop-server) | [Live Link](https://re-treasure.vercel.app) |
+| **STN Crack** | A complete e-commerce web app for purchasing stationery products. Includes Stripe payments, feedback system, and role-based dashboards. | React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Redux, JWT, Stripe | [Client](https://github.com/shahidulllah/stationery-shop-client) <br> [Server](https://github.com/shahidulllah/stationery-shop-server) | [Live Link](https://stationary-shop-self.vercel.app) |
+| **Study Room** | An educational platform for managing assignments. Teachers can grade and give feedback, while students can submit and view results. | React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB, JWT | [Client](https://github.com/shahidulllah/study-room-client) <br> [Server](https://github.com/shahidulllah/study-room-server) | [Live Link](https://ass11-study-room.web.app) |
+
+---
+
+*More projects coming soon — stay tuned..!* 
