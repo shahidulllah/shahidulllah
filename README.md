@@ -73,7 +73,7 @@ Each project includes a short description, key features, and both GitHub reposit
 | **Study Room** | An educational platform for managing assignments. Teachers can grade and give feedback, while students can submit and view results. | React, Tailwind CSS, Firebase Auth, Node.js, Express.js, MongoDB, JWT | [Client](https://github.com/shahidulllah/study-room-client) <br> [Server](https://github.com/shahidulllah/study-room-server) | [Live Link](https://ass11-study-room.web.app) |
 
 
-*More projects coming soon — stay tuned..!* 
+**More projects coming soon — stay tuned..!** 
 
 ## 📈 Current Stats
 
